@@ -24,5 +24,6 @@ class ArticlesController < ApplicationController
   end
   
   def update
+    rai
   end
 end
